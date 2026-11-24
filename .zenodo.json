@@ -1,0 +1,31 @@
+{
+ "title": "China futures exchange holidays (SHFE, INE, DCE, CZCE, GFEX, CFFEX)",
+ "upload_type": "dataset",
+ "description": "<p>Every closure, reopening day and first night session back for China's six futures exchanges (SHFE, INE, DCE, CZCE, GFEX, CFFEX), as CSV and JSON, updated automatically from each exchange's own notice.</p><p>Live calendar with sources: <a href=\"https://marketsopen.today/holidays/2026\">https://marketsopen.today/holidays/2026</a>. Trading hours and night sessions: <a href=\"https://futuresclock.com/en/\">futuresclock.com</a>. The exchange notices behind each date, in English: <a href=\"https://chinaexchangecirculars.com/\">chinaexchangecirculars.com</a>.</p>",
+ "creators": [
+  {
+   "name": "Markets Open"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "keywords": [
+  "China futures",
+  "exchange holidays",
+  "trading calendar",
+  "night session",
+  "SHFE",
+  "INE",
+  "DCE",
+  "CZCE",
+  "GFEX",
+  "CFFEX"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://marketsopen.today/data",
+   "relation": "isDerivedFrom",
+   "scheme": "url"
+  }
+ ]
+}
